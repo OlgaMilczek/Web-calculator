@@ -1,0 +1,1 @@
+Web calculator. Task form The Oddin Project: Web Development 101 course. 
